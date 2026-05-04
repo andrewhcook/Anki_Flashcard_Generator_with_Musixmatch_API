@@ -1,15 +1,1 @@
-This folder is to be used to aid the generation of Anki flashcards featuring translated song lyrics.
 
-These programs utilize the Musixmatch Developer API (linked here as of 5-3-26: https://docs.musixmatch.com/overview) to search for translatable songs which can be further processed into Anki flashcards.
-
-Critically before running any script, ensure you have a file titled ".env" in the root directory of this project containing a single entry structured exactly as follows: MUSIXMATCH_API_KEY={YOUR_KEY_HERE}. Do not use quotations or surrounding blank spaces around this entry. UTF-8 encoding must be used to avoid bugs.
-
-To use this workflow, begin by entering one or many artists into the CSV document in the root folder titled "Artists_to_Check.csv." Double click the Windows application "search_musix_match_artists_for_translatable_lyrics.exe" will search the Musixmatch database for available song translations of the provided artists. Note: the program limits the search to the top 30 songs (as defined by the Musixmatch API) for any single artist.
-
-This process will take about 2 minutes per artist (due to API throttling). Once complete, the program will output a file called "TranslatableSongs.csv. At this point, the user should decide how they best want to leverage their own API license and study time. The Musixmatch API costs $49 per month for 5000 daily queries. 
-
-If each translatable song of interest contains 10 items, the default Anki settings will allow for the study of just two new songs per day. As such, the primary limiter of language acquisition involved in this workflow is the rate of learning by the end user. Keep in mind, each artist queried in the search for translatable lyrics will result in 30 total queries each time the script is run. Ten artists of interest could yield 300 songs with available translations. At the lowest price tier, 500 Anki language translation flashcards can be generated per day at most. Assuming, an average count of 10 unique lyric lines in songs, one day of flashcard aggregation could create novel study materials for 250 days of Anki study. For a language learner using the default Anki setting of 20 new flashcards per day, this amount of information would take 
-
-Select the songs for which you would like to generate Anki flashcards by moving the CSV rows of interest into a document titled "Input.csv" in the same folder where the Windows application titled "musix_match_API_caller_for_anki_deck.exe" is located.  Once saved, execute the musix_match_API_caller_for_anki_deck.exe file, and allow 1-5 minutes for the script to complete.  After the application begins running, a document titled "Results.csv" will be created. Do not open this document until after the application exits. The application can be known to have exited after its task-bar window closes.
-
-At this point import the document "Results.csv" into your favorite Anki application (capable of reading CSV files).
