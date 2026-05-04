@@ -1,0 +1,134 @@
+#separator:tab
+#html:true
+Why are you mad?	ليه زعلان ليه
+"I&#x27;m not mad"	أنا مش زعلانه
+Why are you running away?	ليه هربان ليه
+"I&#x27;m not running away"	أنا مش هربانه
+Why are you crying?	ليه بكيان ليه
+"Why are you mad?<br>I&#x27;m not mad<br>Why are you sc<br>I&#x27;m not scared?<br><br>Why are you running away?<br>I&#x27;m not running away<br>Why are you crying?<br>I&#x27;m not crying<br><br>And why? and why?<br>Aren&#x27;t you a man and why?<br>Aren&#x27;t you a man and why?<br>Aren&#x27;t you a man and why?<br><br>What is this man<br>Why are you mad?<br>I&#x27;m not mad<br>Why are you sc<br><br>I&#x27;m not scared?<br>Why are you running away?<br>I&#x27;m not running away<br>Why are you crying?<br><br>I&#x27;m not crying<br>And why? and why?<br>Aren&#x27;t you a man and why?<br>Aren&#x27;t you a man and why?<br><br>Aren&#x27;t you a man and why?<br>What is this man"	ليه زعلان ليه<br>أنا مش زعلانه<br>ليه خيفان ليه<br>أنا مش خيفانه<br><br>ليه هربان ليه<br>أنا مش هربانه<br>ليه بكيان ليه<br>انا مش بكيانه<br><br>و ليه، وليه<br>منك رجال و ليه<br>منك رجال و ليه<br>منك رجال و ليه<br><br>شو ها الرجال و لاه<br>ليه زعلان ليه<br>أنا مش زعلانه<br>ليه خيفان ليه<br><br>أنا مش خيفانه<br>ليه هربان ليه<br>أنا مش هربانه<br>ليه بكيان ليه<br><br>أنا مش بكيانه<br>و ليه، وليه<br>منك رجال و ليه<br>منك رجال و ليه<br><br>منك رجال و ليه<br>شو ها الرجال و لاه
+Markets as a chessboard	والاسواق زي الشطرنج
+FullTranslation	FullOriginal
+Oh lovable, oh deluded	يا محبوب يا موهوم
+The touch of your hands beats me	لمسة إيدك بتغلبني
+The blink of my eyes, my eyes are for you	رمش عيوني، عيوني ليك
+Sure glad, happy with women around you	لازم فرحان، مبسوط بزحمة الستات عليك
+Being a victim of victims of the cruelty of your heart to me	كوني ضحية من ضحايا قسوة قلبك ليه
+The blame on me	الحق عليًّ مكتفة إيديا
+Hoping you be free for me	متأملة أنك تفضى ليًّ
+I tried to hide my feelings for you	حاول تداري شعوري ليك
+"My rhythm loss, I&#x27;ve ruled my mind"	فاقدة إيقاعي حكمت عقلي
+"Oh lovable, oh deluded<br>The touch of your hands beats me<br><br>The blink of my eyes, my eyes are for you<br><br>Sure glad, happy with women around you<br>Being a victim of victims of the cruelty of your heart to me<br><br><br><br>The blame on me<br>Hoping you be free for me<br><br>Sure glad, happy with women around you<br>Being a victim of victims of the cruelty of your heart to me<br>Sure glad, happy with women around you<br>Being a victim of victims of the cruelty of your heart to me<br><br><br>I tried to hide my feelings for you<br>My rhythm loss, I&#x27;ve ruled my mind<br><br><br>Sure glad, happy with women around you<br>Being a victim of victims of the cruelty of your heart to me<br>Sure glad, happy with women around you<br>Being a victim of victims of the cruelty of your heart to me"	يا محبوب يا موهوم<br>لمسة إيدك بتغلبني<br>أخر نظرة ما لك ذابح<br>رمش عيوني، عيوني ليك<br><br>لازم فرحان، مبسوط بزحمة الستات عليك<br>كوني ضحية من ضحايا قسوة قلبك ليه<br><br>أه يا قاسي أه يا ناسي<br>وعدك ليًّ ما توعدنيش<br>الحق عليًّ مكتفة إيديا<br>متأملة أنك تفضى ليًّ<br><br>لازم فرحان، مبسوط بزحمة الستات عليك<br>كوني ضحية من ضحايا قسوة قلبك ليه<br>لازم فرحان، مبسوط بزحمة الستات عليك<br>كوني ضحية من ضحايا قسوة قلبك ليه<br><br>حاسب يا غالي حافظ عليًّ<br>حاول تداري شعوري ليك<br>فاقدة إيقاعي حكمت عقلي<br>حقن في قلبي، نسياني لأنك<br><br>طبعا فرحان، مبسوط بزحمة الستات عليك<br>كوني ضحية من ضحايا قسوة قلبك ليه<br>طبعًا فرحان، مبسوط بزحمة الستات عليك<br>كوني ضحية من ضحايا قسوة قلبك ليه
+You look cute, my life, bring me breakfast	شكلك مهضوم، حياتي، جبلي الترويقة
+"I&#x27;m craving ful, hummus and toum and a slice of marquqah bread"	جاي عبالي فول، حمص وتوم وخبزة مرقوقة
+Comfort me, my love comfort me	ريحني، حبيبي ريحني
+Let me sleep	خليني نام
+Tell me what you dream what I dream	خبرني شو بتحلم شو بحلم
+"I wander and my heart is with you, I&#x27;m for you always ."	... بسوح وقلبي معك، أنا إلك عطول
+"Put me in a good mood, don&#x27;t fear that I&#x27;ll get bored"	روقني، ما تخاف تزهقني
+I crave to sleep	جاي ععبالي نام
+At your place, in your house, on your bed	عندك، في بيتك، على تختك
+Let us be ... together	خلينا نكون ... سوا
+Pamper me between your hands	دلعني بين إيديك
+Bravo, well done	عفاك
+"You look cute, my life, bring me breakfast<br>I&#x27;m craving ful, hummus and toum and a slice of marquqah bread<br>Comfort me, my love comfort me<br>Let me sleep<br>Tell me what you dream what I dream<br>Let me sleep<br>I wander and my heart is with you, I&#x27;m for you always .<br><br>Put me in a good mood, don&#x27;t fear that I&#x27;ll get bored<br>I crave to sleep<br>At your place, in your house, on your bed<br>Let us be ... together<br>Pamper me between your hands<br>Bravo, well done<br><br>You look cute, my life, bring me breakfast<br>I&#x27;m craving ful, hummus and toum and a slice of marquqah bread<br>You look cute, my life, bring me breakfast<br><br>You look cute, my life, bring me breakfast<br>I&#x27;m craving ful, hummus and toum and a slice of marquqah bread<br>You look cute, my life, bring me breakfast"	شكلك مهضوم، حياتي، جبلي الترويقة<br>جاي عبالي فول، حمص وتوم وخبزة مرقوقة<br>ريحني، حبيبي ريحني<br>خليني نام<br>خبرني شو بتحلم شو بحلم<br>خليني نام<br>... بسوح وقلبي معك، أنا إلك عطول<br><br>روقني، ما تخاف تزهقني<br>جاي ععبالي نام<br>عندك، في بيتك، على تختك<br>خلينا نكون ... سوا<br>دلعني بين إيديك<br>عفاك<br><br>شكلك مهضوم، حياتي، جبلي الترويقة<br>جاي عبالي فول، حمص وتوم وخبزة مرقوقة<br>شكلك مهضوم، حياتي، جبلي الترويقة<br><br>شكلك مهضوم، حياتي، جبلي الترويقة<br>جاي عبالي فول، حمص وتوم وخبزة مرقوقة<br>شكلك مهضوم، حياتي، جبلي الترويقة
+"Let&#x27;s ride the bus"	تع نركب اوتوبيس
+go around the museum ، the corniche	دورة, متحف, كرنيش
+Come close to the sweet taste	قرب عالطيب قرب
+Experience the feel of my lips	لمست شفافي جرب
+Watermelon on the knife	عالسكين يا بطيخ
+Broadbean Broadbean corncobs	طرمس, طرمس عرانيس
+Everything is clean Everything is slim	كل نظيف, كل نحيف
+everything is cool Everything is so cute	كل مهفهف, كل لطيف
+oh you cute man be nice with the girls oh cute man	اه يا لطيف, تطلطف بالصبايا, يا لطيف, يا لطيف
+Noise and congestion .. a new market	هرج ومرج, سوق فرنش
+Taxi travel easily	تاكسيات بتكرج كرج
+everthing is clean and everything is new	كل نظيف, كل خلنج
+clean and lovely just like snow	نظيفة ظريفة زي الثلج
+and the girls are lovely and cute	والبنات بتغنج غنج
+"<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Let&#x27;s ride the bus<br>go around the museum ، the corniche<br><br><br><br>Come close to the sweet taste<br>Experience the feel of my lips<br><br><br><br>Watermelon on the knife<br>Broadbean Broadbean corncobs<br><br><br><br>Everything is clean Everything is slim<br>everything is cool Everything is so cute<br>oh you cute man be nice with the girls oh cute man<br><br>Noise and congestion .. a new market<br>Taxi travel easily<br>everthing is clean and everything is new<br>Markets as a chessboard<br><br>clean and lovely just like snow<br><br>and the girls are lovely and cute<br><br><br><br>Everything is clean Everything is slim<br>everything is cool Everything is so cute<br>Everything is clean Everything is slim<br>everything is cool Everything is so cute<br>oh you cute man be nice with the girls oh cute man<br>Everything is clean Everything is slim<br>everything is cool Everything is so cute<br><br><br><br>"	عرانيس عرانيس<br>بويا تيرلو<br>بويا تيرلو<br><br>عرانيس عرانيس عرانيس<br>عرانيس عرانيس عرانيس<br>بويا تيرلو<br>بويا تيرلو<br><br>عرانيس عرانيس<br>بويا تيرلو<br>بويا تيرلو<br><br>عرانيس عرانيس عرانيس<br>عرانيس عرانيس عرانيس<br>بويا تيرلو<br>بويا تيرلو<br><br>تع نركب اوتوبيس<br>دورة, متحف, كرنيش<br>بويا تيرلو<br>بويا تيرلو<br><br>قرب عالطيب قرب<br>لمست شفافي جرب<br>بويا تيرلو<br>بويا تيرلو<br><br>عالسكين يا بطيخ<br>طرمس, طرمس عرانيس<br>بويا تيرلو<br>بويا تيرلو تيرلو تيرلو<br><br>كل نظيف, كل نحيف<br>كل مهفهف, كل لطيف<br>اه يا لطيف, تطلطف بالصبايا, يا لطيف, يا لطيف<br><br>هرج ومرج, سوق فرنش<br>تاكسيات بتكرج كرج<br>كل نظيف, كل خلنج<br>والاسواق زي الشطرنج<br><br>نظيفة ظريفة زي الثلج<br>فيها الشبان تتمايل<br>والبنات بتغنج غنج<br><br>كل نظيف (كل نظيف), كل نحيف (كل نحيف)<br>كل مهفهف (كل مهفهف), كل لطيف (كل لطيف)<br>كل نظيف, كل نحيف<br>كل مهفهف, كل لطيف<br>كل نظيف, كل نحيف<br>كل مهفهف, كل لطيف<br>اه يا لطيف, تطلطف بالصبايا, يا لطيف, يا لطيف<br>كل نظيف, كل نحيف<br>كل مهفهف, كل لطيف<br><br>عرانيس عرانيس<br>بويا تيرلو<br>بويا تيرلو
+Why are you sc	ليه خيفان ليه
+"I&#x27;m not scared?"	أنا مش خيفانه
+"I&#x27;m not crying"	انا مش بكيانه
+And why? and why?	و ليه، وليه
+"Aren&#x27;t you a man and why?"	منك رجال و ليه
+What is this man	شو ها الرجال و لاه
+without anything	بلا ولا شئ
+Love you	بحبك
+and no liras	ولا ممكن في ليرات
+and no land	ولا ممكن في أراضي
+and no jewelries	ولا في مجوهرات
+"let&#x27;s sit in the shade"	تعي نقعد بالفي
+"this shade doesn&#x27;t belong to anyone"	مش لحدا هالفي
+"love me and think a lil&#x27;"	حبيني وفكري شوي
+alone	وحدك
+without all kinds of clothes	بلا كل أنواع تيابك
+"(let&#x27;s sit)"	تعي نقعد
+without all that irony	بلا كل هالمسخرة
+"without anything<br><br>Love you<br>without anything<br><br><br>and no liras<br>and no land<br>and no jewelries<br><br>let&#x27;s sit in the shade<br>this shade doesn&#x27;t belong to anyone<br>love me and think a lil&#x27;<br><br>without anything<br><br>alone<br>without anything<br><br>without all kinds of clothes<br><br><br><br><br>let&#x27;s sit in the shade<br>this shade doesn&#x27;t belong to anyone<br>love me and think a lil&#x27;<br><br>(let&#x27;s sit)<br>(let&#x27;s sit)<br><br><br><br><br>without all that irony<br><br>let&#x27;s sit in the shade<br>this shade doesn&#x27;t belong to anyone<br>love me and think a lil&#x27;<br>(let&#x27;s sit)<br><br>let&#x27;s sit in the shade<br>this shade doesn&#x27;t belong to anyone<br>love me and think a lil&#x27;<br><br>without anything"	بلا ولا شئ<br><br>بحبك<br>بلا ولا شئ<br><br>ولا في بهالحب مصاري<br>ولا ممكن في ليرات<br>ولا ممكن في أراضي<br>ولا في مجوهرات<br><br>تعي نقعد بالفي<br>مش لحدا هالفي<br>حبيني وفكري شوي<br><br>بلا ولا شئ<br><br>وحدك<br>بلا ولا شئ<br><br>بلا كل أنواع تيابك<br>بلا كل شي فيه تزين<br>بلا كل أصحاب صحابك<br>السئلا والمهضومين<br><br>تعي نقعد بالفي<br>مش لحدا هالفي<br>حبيني وفكري شوي<br><br>تعي نقعد<br>تعي نقعد<br><br>بلا جوقة إمك بيك<br>ورموش ومسكرة<br>بلا ما النسوان تحيك<br>بلا كل هالمسخرة<br><br>تعي نقعد بالفي<br>مش لحدا هالفي<br>حبيني وفكري شوي<br>تعي نقعد<br><br>تعي نقعد بالفي<br>مش لحدا هالفي<br>حبيني وفكري شوي<br><br>بلا ولا شئ
+Send my greeting to him and tell him that i am sending my greetings	سلّملي عليه، وقله إني بسلم عليه
+Kiss his eyes and tell him that i am kissing his eyes	بوّسلي عينيه، وقله إني ببوّس عينيه
+You are the one who understands him, send him my greetings, greet him	إنت يللي بتفهم عليه، سلّملي عليه، سلّم
+"Tell him that his eyes can&#x27;t be forgot suddenly"	قله عيونه مش فجأة بينتسوا
+"And the laughter of his eyes is constant and can&#x27;t be incomplete"	وضحكات عيونه ثابتين ما بينقصوا
+"I don&#x27;t know how is he doing and i know"	مدري شو بو، وبعرف شو بو
+"It is engraved in his memory. Don&#x27;t search for"	مطبوعة بذاكرته، ما تبحثوا، عم تبحثوا
+"Don&#x27;t search, don&#x27;t search, don&#x27;t search"	ما تبحثوا، ما تبحثو، ماتبحثوا
+Greet him, and tell him I am greeting him	سلّملي عليه، وقله إني بسلّم عليه
+Thats my love thats i keep whispering his name to myself	هيدا حبيبي، اللي اسمي بيهمسه
+Tired from his silence and studied him	تعبان على سكوته ودارسه
+"It&#x27;s obvious what&#x27;s wrong with him, don&#x27;t say what&#x27;s wrong with him"	واضح شو بو، ما تقول شو بو
+"Pretend that you don&#x27;t know"	اعمل حالك مش عارف
+"Don&#x27;t tease him, teasing, don&#x27;t tease him"	ما تحرقصوا، بتحرقصوا ما تحرقصوا
+"Don&#x27;t tease him, don&#x27;t tease him"	ما تحرقصوا، ما تحرقصوا
+Kiss his eyes, and he has them opened	بوّسلي عينيه، هو ومفتحهن عينيه
+And a kiss on a cheek and spend a long time with him, you understood me yeah, greet him	و بوسه بخده و طوّللي عليه، فهمت علي كيف سلّم
+"And I&#x27;m singing the doctrine, and when i sing answer him"	أنا عم غني المذهب، و لما بغني ردوا عليه
+"And it&#x27;s the same doctrine, and if you can add to it"	وبعده نفسه المذهب، ولولا قدرتوا زيدوا عليه
+And go back to repeating the chorus, greet him for me	وعودوا تبقوا عيدوا الكوبليه، سلّملي عليه سلّم
+Send him my greetings, greet him	سلّملي عليه سلّم
+"Send my greeting to him and tell him that i am sending my greetings<br>Kiss his eyes and tell him that i am kissing his eyes<br>You are the one who understands him, send him my greetings, greet him<br>Send my greeting to him and tell him that i am sending my greetings<br>Kiss his eyes and tell him that i am kissing his eyes<br>You are the one who understands him, send him my greetings, greet him<br><br>Tell him that his eyes can&#x27;t be forgot suddenly<br>And the laughter of his eyes is constant and can&#x27;t be incomplete<br>Tell him that his eyes can&#x27;t be forgot suddenly<br>And the laughter of his eyes is constant and can&#x27;t be incomplete<br>I don&#x27;t know how is he doing and i know<br>It is engraved in his memory. Don&#x27;t search for<br>Don&#x27;t search, don&#x27;t search, don&#x27;t search<br><br>Greet him, and tell him I am greeting him<br>Kiss his eyes and tell him that i am kissing his eyes<br>You are the one who understands him, send him my greetings, greet him<br><br>Thats my love thats i keep whispering his name to myself<br>Tired from his silence and studied him<br>Thats my love thats i keep whispering his name to myself<br>Tired from his silence and studied him<br>It&#x27;s obvious what&#x27;s wrong with him, don&#x27;t say what&#x27;s wrong with him<br>Pretend that you don&#x27;t know<br>Don&#x27;t tease him, teasing, don&#x27;t tease him<br>Don&#x27;t tease him, don&#x27;t tease him<br><br>Greet him, and tell him I am greeting him<br>Kiss his eyes, and he has them opened<br>And a kiss on a cheek and spend a long time with him, you understood me yeah, greet him<br>Greet him, and tell him I am greeting him<br>Kiss his eyes and tell him that i am kissing his eyes<br>You are the one who understands him, send him my greetings, greet him<br><br>And I&#x27;m singing the doctrine, and when i sing answer him<br>And it&#x27;s the same doctrine, and if you can add to it<br>And go back to repeating the chorus, greet him for me<br>Send him my greetings, greet him<br>Send him my greetings, greet him"	سلّملي عليه، وقله إني بسلم عليه<br>بوّسلي عينيه، وقله إني ببوّس عينيه<br>إنت يللي بتفهم عليه، سلّملي عليه، سلّم<br>سلّملي عليه، وقله إني بسلم عليه<br>بوّسلي عينيه، وقله إني ببوّس عينيه<br>إنت يللي بتفهم عليه، سلّملي عليه، سلّم<br><br>قله عيونه مش فجأة بينتسوا<br>وضحكات عيونه ثابتين ما بينقصوا<br>قله عيونه مش فجأة بينتسوا<br>وضحكات عيونه ثابتين ما بينقصوا<br>مدري شو بو، وبعرف شو بو<br>مطبوعة بذاكرته، ما تبحثوا، عم تبحثوا<br>ما تبحثوا، ما تبحثو، ماتبحثوا<br><br>سلّملي عليه، وقله إني بسلّم عليه<br>بوّسلي عينيه، وقله إني ببوّس عينيه<br>إنت يللي بتفهم عليه، سلّملي عليه، سلّم<br><br>هيدا حبيبي، اللي اسمي بيهمسه<br>تعبان على سكوته ودارسه<br>هيدا حبيبي، اللي اسمي بيهمسه<br>تعبان على سكوته ودارسه<br>واضح شو بو، ما تقول شو بو<br>اعمل حالك مش عارف<br>ما تحرقصوا، بتحرقصوا ما تحرقصوا<br>ما تحرقصوا، ما تحرقصوا<br><br>سلّملي عليه، وقله إني بسلّم عليه<br>بوّسلي عينيه، هو ومفتحهن عينيه<br>و بوسه بخده و طوّللي عليه، فهمت علي كيف سلّم<br>سلّملي عليه، وقله إني بسلّم عليه<br>بوّسلي عينيه، وقله إني ببوّس عينيه<br>إنت يللي بتفهم عليه، سلّملي عليه، سلّم<br><br>أنا عم غني المذهب، و لما بغني ردوا عليه<br>وبعده نفسه المذهب، ولولا قدرتوا زيدوا عليه<br>وعودوا تبقوا عيدوا الكوبليه، سلّملي عليه سلّم<br>سلّملي عليه سلّم<br>سلّملي عليه سلّم
+We and the moon are neighbors, its house lies behind our hills	نحنا والقمر جيران، بيته خلف تلالنا
+It comes out in front of us and listens to the melodies	بيطلع من قبالنا بيسمع الألحان
+We and the moon are neighbors, it knows of our trysts	نحنا والقمر جيران عارف مواعيدنا
+It leaves on our rooftiles the prettiest of colours	وتارك بقرميدنا أجمل الألوان
+And how we stayed up with it on many tranquil nights with contented sighs	وياما سهرنا معه بليل الهنا مع النهدات
+And how we spelled out love on its rise and many stories	وياما على مطلعه شرحنا الهوى وغوى حكايات
+We and the moon are neighbors when it came to visit us and on the arches of our homes	نحنا والقمر جيران لما طل وزارنا ع قناطر دارنا
+It scattered corals	رشرش المرجان
+O neighbor of the moon, the most beautiful song	يا جارة القمر يا أحلى غنية
+O neighbor of the moon, a wave through this night	يا جارة القمر موجي بهالسهرية
+Songs and memories (ah-ah-ah-ah) and sweet sleepless nights (ah-ah-ah-ah)	غناني وذكر (آه-آه-آه)، حب وسهر (آه-آه-آه)
+Night of love kept you up o neighbor of the moon (ah-ah-ah-ah-ah-ah)	ليل الهوى سهراتك يا جارة القمر (آه-آه-آه-آه-آه-آه)
+We and the moon are neighbors (neighbors)	نحنا والقمر جيران (جيران)
+We and the moon are neighbors, its house lies behind our hills<br>It comes out in front of us and listens to the melodies<br>We and the moon are neighbors, it knows of our trysts<br>It leaves on our rooftiles the prettiest of colours<br><br>And how we stayed up with it on many tranquil nights with contented sighs<br>And how we spelled out love on its rise and many stories<br>We and the moon are neighbors when it came to visit us and on the arches of our homes<br>It scattered corals<br><br>O neighbor of the moon, the most beautiful song<br>O neighbor of the moon, a wave through this night<br>Songs and memories (ah-ah-ah-ah) and sweet sleepless nights (ah-ah-ah-ah)<br>Night of love kept you up o neighbor of the moon (ah-ah-ah-ah-ah-ah)<br><br>We and the moon are neighbors (neighbors)<br>We and the moon are neighbors (neighbors)<br><br>And how we stayed up with it on many tranquil nights with contented sighs<br>And how we spelled out love on its rise and many stories<br>We and the moon are neighbors when it came to visit us and on the arches of our homes<br>It scattered corals	نحنا والقمر جيران، بيته خلف تلالنا<br>بيطلع من قبالنا بيسمع الألحان<br>نحنا والقمر جيران عارف مواعيدنا<br>وتارك بقرميدنا أجمل الألوان<br><br>وياما سهرنا معه بليل الهنا مع النهدات<br>وياما على مطلعه شرحنا الهوى وغوى حكايات<br>نحنا والقمر جيران لما طل وزارنا ع قناطر دارنا<br>رشرش المرجان<br><br>يا جارة القمر يا أحلى غنية<br>يا جارة القمر موجي بهالسهرية<br>غناني وذكر (آه-آه-آه)، حب وسهر (آه-آه-آه)<br>ليل الهوى سهراتك يا جارة القمر (آه-آه-آه-آه-آه-آه)<br><br>نحنا والقمر جيران (جيران)<br>نحنا والقمر جيران (جيران)<br><br>وياما سهرنا معه بليل الهنا مع النهدات<br>وياما على مطلعه شرحنا الهوى وغوى حكايات<br>نحنا والقمر جيران لما طل وزارنا ع قناطر دارنا<br>رشرش المرجان
+Fairuz . O bird	فيروز . يا طَير
+&quot;&quot;&quot;&quot;&quot;	&quot;&quot;&quot;&quot;&quot;
+Ouf	أوف
+Ouf ouf, ouf father	أوف أوف، أوف يابا
+O bird,  O bird flying over the edges the world,	يا طير، يا طاير على أطراف الدّني
+If you could tell my beloved what is wrong with me	لو فيك تحكي للحبايب شو بِني
+O bird, O bird	يا طير، يا طير
+Go ask them about the one who is without his partner	روح إسألن عاللّي وليفُه مش معُه
+Afflicted by the wounds of love, what avails him	و مجروح بجروح الهوى شو بينفعُه
+Anguished, but he never speaks of what ails him	موجوع ما بيقول عاللّي بيوجعُه
+And reminisces about the childhood days	و تعن عبالُه ليالي الولدني
+O bird	يا طير
+O bird that travels with the color of the trees	يا طير و آخد معك لون الشّجر
+"There&#x27;s nothing left but the wait and ennui"	ما عاد فيه إلّا هالنّطرة و الضّجر
+I wait beneath the sun on a cold stone	بنطُر بعين الشمس عبرد الحجر
+Perplexed, and the great distance disables me	و ملبّكة و إيد الفراق تهدّني
+I swear upon your feathers and the rest of  my days	و حياة ريشاتك و أيّامي سوى
+I swear upon the thistle flower and the rise of the wind	و حياة زهر الشّوك و هبوب الهوى
+"If you&#x27;re calling on them, my love is insufferable"	كأنّك لعندن رايح و جنّ الهوى
+Take me with you, if only for a moment and bring me back	خِذني و لنّوشي دقيقة و ردّني
+Ouf ouf, ouf ouf	أوف أوف، أوف أوف
+Ouf ouf	أوف أوف
+"Fairuz . O bird<br>&quot;&quot;&quot;&quot;&quot;<br>Ouf<br>Ouf ouf, ouf father<br><br>O bird,  O bird flying over the edges the world,<br>If you could tell my beloved what is wrong with me<br>O bird, O bird<br><br>Go ask them about the one who is without his partner<br>Afflicted by the wounds of love, what avails him<br>Anguished, but he never speaks of what ails him<br>And reminisces about the childhood days<br><br>O bird<br>O bird,  O bird flying over the edges the world,<br>If you could tell my beloved what is wrong with me<br>O bird, O bird<br>&quot;&quot;&quot;&quot;&quot;<br>O bird that travels with the color of the trees<br>There&#x27;s nothing left but the wait and ennui<br>I wait beneath the sun on a cold stone<br>Perplexed, and the great distance disables me<br><br>O bird<br>O bird,  O bird flying over the edges the world,<br>If you could tell my beloved what is wrong with me<br>O bird, O bird<br>&quot;&quot;&quot;&quot;&quot;<br>I swear upon your feathers and the rest of  my days<br>I swear upon the thistle flower and the rise of the wind<br>If you&#x27;re calling on them, my love is insufferable<br>Take me with you, if only for a moment and bring me back<br><br>O bird<br>O bird,  O bird flying over the edges the world,<br>If you could tell my beloved what is wrong with me<br>O bird, O bird<br><br>Ouf ouf, ouf ouf<br>Ouf ouf"	فيروز . يا طَير<br>&quot;&quot;&quot;&quot;&quot;<br>أوف<br>أوف أوف، أوف يابا<br><br>يا طير، يا طاير على أطراف الدّني<br>لو فيك تحكي للحبايب شو بِني<br>يا طير، يا طير<br><br>روح إسألن عاللّي وليفُه مش معُه<br>و مجروح بجروح الهوى شو بينفعُه<br>موجوع ما بيقول عاللّي بيوجعُه<br>و تعن عبالُه ليالي الولدني<br><br>يا طير<br>يا طير، يا طاير على أطراف الدّني<br>لو فيك تحكي للحبايب شو بِني<br>يا طير، يا طير<br>&quot;&quot;&quot;&quot;&quot;<br>يا طير و آخد معك لون الشّجر<br>ما عاد فيه إلّا هالنّطرة و الضّجر<br>بنطُر بعين الشمس عبرد الحجر<br>و ملبّكة و إيد الفراق تهدّني<br><br>يا طير<br>يا طير، يا طاير على أطراف الدّني<br>لو فيك تحكي للحبايب شو بِني<br>يا طير، يا طير<br>&quot;&quot;&quot;&quot;&quot;<br>و حياة ريشاتك و أيّامي سوى<br>و حياة زهر الشّوك و هبوب الهوى<br>كأنّك لعندن رايح و جنّ الهوى<br>خِذني و لنّوشي دقيقة و ردّني<br><br>يا طير<br>يا طير، يا طاير على أطراف الدّني<br>لو فيك تحكي للحبايب شو بِني<br>يا طير، يا طير<br><br>أوف أوف، أوف أوف<br>أوف أوف
+i left love and i took sadness	تركت الحب واخدت الاسى
+there is alot of people, but not like him	في ناس كتير لكن بيصير مافي غيرو
+"my lover was here and there isn&#x27;t anyone like him"	حبيبي كان هني وسهيان مافي غيرو
+he handled me for years .	حملني سنين منن هينن كتر خيرو
+my lover is okay, he is tired from me	حبيبي منيح لشو التجريح تعب مني
+i never understood, he handled me	انا اللى كنت ما بفهم انت حمل عني
+you only	بس انت انت وبس
+"<br>i left love and i took sadness<br><br>i left love and i took sadness<br><br><br>there is alot of people, but not like him<br><br>there is alot of people, but not like him<br><br><br>i left love and i took sadness<br><br>my lover was here and there isn&#x27;t anyone like him<br>he handled me for years .<br>my lover was here and there isn&#x27;t anyone like him<br>he handled me for years .<br><br><br>i left love and i took sadness<br><br>my lover is okay, he is tired from me<br>i never understood, he handled me<br>my lover is okay, he is tired from me<br>i never understood, he handled me<br><br><br>i left love and i took sadness<br><br><br><br>you only<br>you only<br>you only<br>you only<br>you only<br>you only"	صباح ومسا شي ما بينتسى<br>تركت الحب واخدت الاسى<br>صباح ومسا شي ما بينتسى<br>تركت الحب واخدت الاسى<br><br>شو بدي دور لشو عم دور على غيرو<br>في ناس كتير لكن بيصير مافي غيرو<br>شو بدي دور لشو عم دور على غيرو<br>في ناس كتير لكن بيصير مافي غيرو<br><br>صباح ومسا شي ما بينتسى<br>تركت الحب واخذت الاسى<br><br>حبيبي كان هني وسهيان مافي غيرو<br>حملني سنين منن هينن كتر خيرو<br>حبيبي كان هني وسهيان مافي غيرو<br>حملني سنين منن هينن كتر خيرو<br><br>صباح ومسا شي ما بينتسى<br>تركت الحب واخذت الاسى<br><br>حبيبي منيح لشو التجريح تعب مني<br>انا اللى كنت ما بفهم انت حمل عني<br>حبيبي منيح لشو التجريح تعب مني<br>انا اللى كنت ما بفهم انت حمل عني<br><br>صباح ومسا شي ما بينتسى<br>تركت الحب واخذت الاسى<br>لعل وعسى اترك هال أسى<br>ويرجعلي حبي صباح ومسى<br><br>بس انت انت وبس<br>بس انت انت وبس<br>بس انت انت وبس<br>بس انت انت وبس<br>بس انت انت وبس<br>بس انت انت وبس
